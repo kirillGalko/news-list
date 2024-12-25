@@ -1,0 +1,16 @@
+20:44:06.884 [http-nio-8080-exec-8] ERROR NewsList.services.NewsServiceImpl - Категория с наименованием политика не найдена
+20:44:37.768 [http-nio-8080-exec-9] ERROR NewsList.services.NewsServiceImpl - Новость с id 30 не найдена
+09:13:58.125 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+

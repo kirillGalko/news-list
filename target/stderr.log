@@ -1,0 +1,1 @@
+22:46:08.919 [http-nio-8080-exec-6] ERROR o.s.core.service.OpenAPIService - Class Not Found in classpath : NewsList.config.OpenApiConfig
